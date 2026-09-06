@@ -95,5 +95,5 @@ customer-shopping-behavior-analysis/
 
 ## Author
 
-Nadia Faadhillah
-Freshg raduate, Computer Engineering, Universitas Diponegoro
+Nadia Faadhillah | 
+Fresh graduate, Computer Engineering, Universitas Diponegoro
